@@ -26,8 +26,6 @@ A simple yet effective Arduino-powered robot designed to detect and follow a hum
 - **Motor Driver:** L293D  
 - **Power:** External battery pack or USB
 
-## 📦 Project Structure
-
 
 ## 🚀 How It Works
 
@@ -60,4 +58,5 @@ A simple yet effective Arduino-powered robot designed to detect and follow a hum
 ---
 
 > 💡 *Feel free to fork, contribute, or suggest improvements!*
+
 
